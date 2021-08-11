@@ -7,6 +7,8 @@
 
 ## 알리바바 클라우드 빅데이터 서비스
 
+![](![Screen Shot 2021-08-11 at 4.13.05 PM.png](https://github.com/rnlduaeo/alibaba/blob/master/Screen%20Shot%202021-08-11%20at%204.13.05%20PM.png?raw=true))
+
 
 # Files
 
@@ -147,6 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NDg3NjAxLDg0NzQ4NzYwMSwxNDkwNj
+eyJoaXN0b3J5IjpbMTI0MTg4MjY1LDg0NzQ4NzYwMSwxNDkwNj
 UyODc3LDI4NDUzNjQ4MV19
 -->
