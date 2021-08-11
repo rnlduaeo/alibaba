@@ -1,6 +1,8 @@
 # Alibaba Cloud BigData Pipeline 구축하기
 
-알리바바는 Aliexpress, Tmall 등 중국의 e-commerce 플랫폼에서 시작하여 현재는 많은 아시아권 나라에서 다양한 비즈니스를 수행하고 있습니다. 아시아는 세계에서 가장 높은 인구 분포를 지니고 있는데요. 오늘날 세계 인구 70억명 중 4/7에 이르는 40억명이 중동을 포함한 아시아에서 살고 있다고 합니다. 이는 아시아에서 우세한 비즈니스를 하고 있는 알리바바가 금
+알리바바는 Aliexpress, Tmall 등 중국의 e-commerce 플랫폼에서 시작하여 현재는 많은 아시아권 나라에서 다양한 비즈니스를 수행하고 있습니다. 아시아는 세계에서 가장 높은 인구 분포를 지니고 있는데요. 오늘날 세계 인구 70억명 중 4/7에 이르는 40억명이 중동을 포함한 아시아에서 살고 있다고 합니다. 이는 아시아에서 우세한 비즈니스를 하고 있는 알리바바가 그만큼 많은 데이터를 보유하고 있다는 점을 시사합니다. 
+
+알리바바 클라우드에서 제공하는 모든 BigData 관련 서비스는 모두 AliPay, AliExpress, Tmall, Taobao 등 알리바바 비즈니스의 주축을 이루는 
 
 
 # Files
@@ -142,6 +144,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDA0Njg5NiwxNDkwNjUyODc3LDI4ND
-UzNjQ4MV19
+eyJoaXN0b3J5IjpbOTgzODIzODQwLDE0OTA2NTI4NzcsMjg0NT
+M2NDgxXX0=
 -->
