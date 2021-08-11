@@ -13,6 +13,7 @@
 ![Screen Shot 2021-08-11 at 4.13.05 PM.png](https://github.com/rnlduaeo/alibaba/blob/master/Screen%20Shot%202021-08-11%20at%204.13.05%20PM.png?raw=true)
 ![](https://github.com/rnlduaeo/alibaba/blob/master/Screen%20Shot%202021-08-11%20at%204.13.16%20PM.png?raw=true)
 
+때로는 서비스가 너무 많아서 어떤 서비스를 선택해야할지 막막하시리라 생각합니다. 
 
 
 
@@ -155,6 +156,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYzODk4MDksODQ3NDg3NjAxLDE0OT
-A2NTI4NzcsMjg0NTM2NDgxXX0=
+eyJoaXN0b3J5IjpbMTEzMzc3OTA0Myw4NDc0ODc2MDEsMTQ5MD
+Y1Mjg3NywyODQ1MzY0ODFdfQ==
 -->
