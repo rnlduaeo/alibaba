@@ -5,6 +5,8 @@
 
 알리바바 클라우드에서 제공하는 모든 BigData 관련 서비스는 모두 AliPay, AliExpress, Tmall, Taobao 등 알리바바 비즈니스의 주축을 이루는 모든 계열사의 데이터 분석에서 실제로 활용되고 있는 서비스입니다. 가령, 2019년 11월 11일 중국의 최대 쇼핑페스티벌인 광군제에서는 하루에 1.7EB 의 데이터를 알리바바 클라우드의 BigData Platform에서 처리를 했고, 실시간 데이터 처리엔진인 RealTime Compute(Flink)는 피크타임 시 초당 40억개의 데이터를 consume하여 처리한 바 있습니다.
 
+As shown in the preceding figure, based on the real-time computing platform of Flink, Alibaba processed 4 billion messages with a total data volume of 7TB during the 2020 Double 11. It also created 580,000 orders per second with the computing scale exceeding 1.5 million cores.
+
 제 개인적인 생각으로도 알리바바 클라우드는 빅데이터 처리 쪽에서 강점을 가지고 있다고 생각합니다. 여러 PoC를 진행하며 놀라운 성능을 직접 목격하였고 데이터 개발 및 파이프라인을 구축하는데 괜찮은 Tool도 보유하고 있습니다.  - 뺄까 말까 생각중..
 
 ## 알리바바 클라우드 빅데이터 서비스
@@ -158,6 +160,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDIwMDY5OCwtMTExNTI1ODUyMywtMz
-cwMTA3MjEzXX0=
+eyJoaXN0b3J5IjpbLTMxNDYwNzQ4OCwxMDkwMjAwNjk4LC0xMT
+E1MjU4NTIzLC0zNzAxMDcyMTNdfQ==
 -->
