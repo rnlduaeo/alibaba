@@ -10,6 +10,7 @@
 ## 알리바바 클라우드 빅데이터 서비스
 자, 그럼 본격적으로 알리바바 클라우드의 BigData Service에 대해서 알아보도록 하겠습니다. 
 [알리바바 클라우드 공식 문서 사이트](https://www.alibabacloud.com/help?spm=a2c63.p38356.879954.1.3cd95ec1KElTo8)에 가보시면, Big Data와 Databases 섹터에 다양한 서비스가 있는 것을 확인하실 수 있습니다. 
+
 <img src="https://github.com/rnlduaeo/alibaba/blob/master/Screen%20Shot%202021-08-11%20at%204.13.05%20PM.png?raw=true" width="500" height="200">
 
 <img src="https://github.com/rnlduaeo/alibaba/blob/master/Screen%20Shot%202021-08-11%20at%204.13.16%20PM.png?raw=true" width="600" height="300">
@@ -157,6 +158,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjE0MzE1OSwtMTExNTI1ODUyMywtMz
+eyJoaXN0b3J5IjpbMTA1NjYzMjUyMSwtMTExNTI1ODUyMywtMz
 cwMTA3MjEzXX0=
 -->
