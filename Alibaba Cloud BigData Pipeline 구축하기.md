@@ -15,7 +15,7 @@
 
 <img src="https://github.com/rnlduaeo/alibaba/blob/master/Screen%20Shot%202021-08-11%20at%204.13.16%20PM.png?raw=true" width="600" height="300">
 
-때로는 서비스가 너무 많아서 어떤 서비스를 선택해야할지 막막하시리라 생각합니다. 비슷해 보이는, 중첩된 기능을 제공하는 서로 다른 서비스가 있는가 하면, 서비스를 들어가 적용 시나리오를 읽다보면 이것 저것 다 유용해 보이기도 합니다. 저는 이에 대해 알리바바 클라우드가 'Too much flexibility' 한 옵션을 제공한다고 생각합니다.  
+때로는 서비스가 너무 많아서 어떤 서비스를 선택해야할지 막막하시리라 생각합니다. 비슷해 보이는, 중첩된 기능을 제공하는 서로 다른 서비스가 있는가 하면, 서비스를 들어가 적용 시나리오를 읽다보면 이것 저것 다 유용해 보이기도 합니다. 
 
 
 
@@ -158,6 +158,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjYzMjUyMSwtMTExNTI1ODUyMywtMz
+eyJoaXN0b3J5IjpbMTA5MDIwMDY5OCwtMTExNTI1ODUyMywtMz
 cwMTA3MjEzXX0=
 -->
