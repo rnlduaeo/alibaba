@@ -1,6 +1,6 @@
 # Alibaba Cloud BigData Pipeline 구축하기
 
-알리바바는 
+알리바바는 중국의 e-commerce 플랫폼에서 시작하여 현재는 많은 아시아권 나라에서 비즈니스를 수행하고 있습니다. 
 
 
 # Files
@@ -142,5 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDY1Mjg3NywyODQ1MzY0ODFdfQ==
+eyJoaXN0b3J5IjpbLTI4ODU5NjA1NiwxNDkwNjUyODc3LDI4ND
+UzNjQ4MV19
 -->
