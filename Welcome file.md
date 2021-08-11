@@ -1,6 +1,6 @@
 # Alibaba Cloud BigData Pipeline 구축하기
 
-알리바바는 Aliexpress, Tmall 등 중국의 e-commerce 플랫폼에서 시작하여 현재는 많은 아시아권 나라에서 다양한 비즈니스를 수행하고 있습니다. 아시아는 세계에서 가장 높은 인구 분포
+알리바바는 Aliexpress, Tmall 등 중국의 e-commerce 플랫폼에서 시작하여 현재는 많은 아시아권 나라에서 다양한 비즈니스를 수행하고 있습니다. 아시아는 세계에서 가장 높은 인구 분포를 지니고 있는데요. 오늘날 세계 인구 70억명 중 4/7에 이르는 40억명이 중동을 포함한 아시아에 살고 있다고 합니다. 
 
 
 # Files
@@ -142,6 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTU4Mjk0OSwxNDkwNjUyODc3LDI4ND
+eyJoaXN0b3J5IjpbMTU4MjA3MTE4NiwxNDkwNjUyODc3LDI4ND
 UzNjQ4MV19
 -->
