@@ -1,6 +1,6 @@
 # Alibaba Cloud BigData Pipeline 구축하기
 
-
+알리바
 
 
 # Files
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0NTM2NDgxXX0=
+eyJoaXN0b3J5IjpbMjA5Mzg2NjQxNSwyODQ1MzY0ODFdfQ==
 -->
